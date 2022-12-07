@@ -1,0 +1,29 @@
+
+{
+    "name": "78K",
+    "type": "microcontroller family",
+    "manufacturer": "Renesas Electronics",
+    "originator": "NEC",
+    "start_year": 1986,
+    "architecture": "CISC",
+    "components": [
+        "program ROM",
+        "data RAM",
+        "serial interfaces",
+        "timers",
+        "I/O ports",
+        "A/D converter",
+        "interrupt controller",
+        "CPU core"
+    ],
+    "application": "mechanical system controls and man-machine interfaces",
+    "tools": [
+        "C compilers",
+        "macro-assemblers",
+        "in-circuit emulators",
+        "flash ROM programmers"
+    ],
+    "series": 11,
+    "instruction_sets": 9,
+    "migration": "RL78 Family"
+}
